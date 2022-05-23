@@ -26,3 +26,26 @@ Although no one will use the registry to save configuration, but maybe someone w
     <img alt="stars" src="https://img.shields.io/github/stars/MaaAssistantArknights/MaaAssistantArknights?style=social">
 </div>
 <br>
+<br>
+<div>
+    
+</div>
+<div>
+    <img alt="platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-blueviolet">
+</div>
+<div>
+    <img alt="license" src="https://img.shields.io/github/license/MaaAssistantArknights/MaaAssistantArknights">
+    <img alt="commit" src="https://img.shields.io/github/commit-activity/m/MaaAssistantArknights/MaaAssistantArknights?color=%23ff69b4">
+    <img alt="stars" src="https://img.shields.io/github/stars/MaaAssistantArknights/MaaAssistantArknights?style=social">
+</div>
+<br>
+
+MAA 的意思是 MAA Assistant Arknights
+
+一款明日方舟游戏小助手
+
+基于图像识别技术，一键完成全部日常任务！
+
+绝赞更新中  ✿✿ヽ(°▽°)ノ✿  
+
+</div>
