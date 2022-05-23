@@ -1,2 +1,4 @@
 # EasyRegistry
-![](https://img.shields.io/badge/license-MIT-brightgreen)
+<div>
+    ![](https://img.shields.io/badge/license-MIT-brightgreen)
+</div>
