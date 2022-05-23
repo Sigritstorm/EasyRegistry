@@ -14,7 +14,9 @@ It is a lightweight project with no threshold of understanding and easy to use.
 
 ## Usage
 In the serialize method you can input the C# instance and the registry path as parameters.The C# instance will be stored in the registry with key-value rules.
+
 Input instance types support dictionaries, lists, arrays, and your custom classes.
+
 About the deserialization method, as long as you need to enter the corresponding type, an instance of that type will be returned.
 
 ## Maintainers
