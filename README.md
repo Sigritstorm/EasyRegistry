@@ -1,2 +1,2 @@
 # EasyRegistry
- <img alt="C#" src="https://img.shields.io/badge/license-MIT-brightgreen">
+ <img alt="C Sharp" src="https://img.shields.io/badge/license-MIT-brightgreen">
