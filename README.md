@@ -9,4 +9,7 @@
 </div>
 
 
+  
+  
+  
   Although no one will use the registry to save configuration, but maybe someone will, such as your teacher asks you to do so.
